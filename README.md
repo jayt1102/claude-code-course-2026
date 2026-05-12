@@ -29,7 +29,7 @@ npm install -g @anthropic-ai/claude-code
 ## Getting started
 
 **1. Fork this repo**
-Click "Fork" in the top right on GitHub. This gives you your own copy to push changes to.
+Click "Fork" in the top right on GitHub. This gives you your own copy to push changes to. 
 
 **2. Clone your fork**
 ```bash
